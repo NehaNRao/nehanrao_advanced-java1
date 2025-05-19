@@ -1,4 +1,6 @@
-package DisplayElementsWithPositions;
+/*4. Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p) ) */
+	package DisplayElementsWithPositions;
 
 	import java.util.LinkedList;
 
