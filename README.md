@@ -11,3 +11,5 @@
 [ ColorRemover outpuitlink]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/Screenshot%202025-05-19%20105515.png)
 
 [LinkedListIteration outputlink]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/Screenshot%202025-05-19%20110719.png)
+
+[ReverseLinkedListIteration outputlink]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/Screenshot%202025-05-19%20111649.png)
