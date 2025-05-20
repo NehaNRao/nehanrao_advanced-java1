@@ -35,3 +35,5 @@
 [WhitespaceRemover outputlink]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/Screenshot%202025-05-20%20121610.png)
 
 [CapitalizeEachWord outputlink]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/Screenshot%202025-05-20%20122737.png)
+
+[StringTruncator outputlink]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/Screenshot%202025-05-20%20123658.png)
