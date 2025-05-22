@@ -57,3 +57,5 @@
 [CMYTabbedPan outputlink]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/Screenshot%202025-05-20%20160916.png)
 
 [Digitalclock outputlink]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/Screenshot%202025-05-21%20215045.png)
+
+[8A]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/8a_JDBC/Screenshot%202025-05-22%20193721.png)
