@@ -65,3 +65,5 @@
 [8C insert]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/8a_JDBC/Screenshot%202025-05-22%20195502.png)
 
 [8D UPDATE EMPLOYEE]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/8a_JDBC/Screenshot%202025-05-22%20200150.png)
+
+[6]->(https://github.com/NehaNRao/nehanrao_advanced-java1/blob/main/FactorialServelet/Screenshot%202025-05-22%20200701.png)
